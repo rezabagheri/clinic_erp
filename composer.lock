@@ -400,12 +400,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hail812/yii2-adminlte3.git",
-                "reference": "c3ec904d783c04fd3c0e96520963b88a4ff0f3c3"
+                "reference": "ba2ec383c8e47d9bda5a77383a42e29bd8103215"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hail812/yii2-adminlte3/zipball/c3ec904d783c04fd3c0e96520963b88a4ff0f3c3",
-                "reference": "c3ec904d783c04fd3c0e96520963b88a4ff0f3c3",
+                "url": "https://api.github.com/repos/hail812/yii2-adminlte3/zipball/ba2ec383c8e47d9bda5a77383a42e29bd8103215",
+                "reference": "ba2ec383c8e47d9bda5a77383a42e29bd8103215",
                 "shasum": ""
             },
             "require": {
