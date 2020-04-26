@@ -48,4 +48,31 @@ return array (
       '@yii/faker' => $vendorDir . '/yiisoft/yii2-faker',
     ),
   ),
+  'yiisoft/yii2-bootstrap4' => 
+  array (
+    'name' => 'yiisoft/yii2-bootstrap4',
+    'version' => '2.0.8.0',
+    'alias' => 
+    array (
+      '@yii/bootstrap4' => $vendorDir . '/yiisoft/yii2-bootstrap4/src',
+    ),
+  ),
+  'rmrevin/yii2-fontawesome' => 
+  array (
+    'name' => 'rmrevin/yii2-fontawesome',
+    'version' => '2.10.3.0',
+    'alias' => 
+    array (
+      '@rmrevin/yii/fontawesome' => $vendorDir . '/rmrevin/yii2-fontawesome',
+    ),
+  ),
+  'hail812/yii2-adminlte3' => 
+  array (
+    'name' => 'hail812/yii2-adminlte3',
+    'version' => '1.0.4.0',
+    'alias' => 
+    array (
+      '@hail812/adminlte3' => $vendorDir . '/hail812/yii2-adminlte3/src',
+    ),
+  ),
 );
